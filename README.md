@@ -97,9 +97,23 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=charithgunarathna&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10" height="175" alt="GitHub Streak"/>
+
+</div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=4000&pause=1000&color=94A3B8&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=50&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.+%E2%80%94+Cory+House;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Tech Quotes"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charithgunarathna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&area_color=0c4a6e&radius=6&custom_title=Charith%27s%20Contribution%20Graph" width="97%" alt="Contribution Graph"/>
 
 </div>
 
