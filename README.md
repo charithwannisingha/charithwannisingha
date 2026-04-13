@@ -174,7 +174,7 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=charithgunarathna&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/charithgunarathna?label=Followers&style=flat-square&color=38bdf8&labelColor=1e293b" alt="Followers"/>
 
