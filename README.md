@@ -128,8 +128,7 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithgunarathna&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&langs_count=8&v=2" height="160" alt="Top Languages"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charithgunarathna&theme=tokyonight&hide_border=true&layout=compact&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&cache_seconds=86400" height="160" alt="WakaTime Stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charithgunarathna&theme=tokyonight&hide_border=true&layout=compact&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&v=10" height="160" alt="WakaTime Stats"/>
 </div>
 
 <div align="center">
