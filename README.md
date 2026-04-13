@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+innovative+web+%26+mobile+apps+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+Java+%7C+AI;Solving+problems+through+clean+code+%E2%9C%A8;Always+learning+%E2%86%92+always+building+%F0%9F%92%BB)](#)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+innovative+web+%26+mobile+apps+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+Java+%7C+AI;Solving+problems+through+clean+code+%E2%9C%A8;Always+learning+%E2%86%92+always+building+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -135,7 +135,7 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=4000&pause=1000&color=94A3B8&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=50&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.+%E2%80%94+Cory+House;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Tech Quotes"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&duration=4000&pause=1000&color=94A3B8&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=50&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.+%E2%80%94+Cory+House;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Tech Quotes"/>
 
 </div>
 
@@ -175,7 +175,7 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/charithgunarathna?label=Followers&style=flat-square&color=38bdf8&labelColor=1e293b" alt="Followers"/>
 
