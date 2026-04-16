@@ -98,10 +98,17 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 ---
 
 ## 📊 GitHub Stats & Activity
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=charithgunarathna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&rank_icon=github" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=charithgunarathna&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10" height="175" alt="GitHub Streak"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=charithgunarathna&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10" height="175" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithgunarathna&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -116,8 +123,6 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=charithgunarathna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&area_color=0c4a6e&radius=6&custom_title=Charith%27s%20Contribution%20Graph" width="97%" alt="Contribution Graph"/>
 
 </div>
-
----
 
 ## 🤝 Open To
 
