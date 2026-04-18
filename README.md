@@ -146,7 +146,7 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 &nbsp;
 <img src="https://img.shields.io/github/followers/charithgunarathna?label=Followers&style=flat-square&color=22c55e&labelColor=1e293b" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/charithgunarathna?label=Stars&style=flat-square&color=eab308&labelColor=1e293b" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/charithgunarathna?label=Stars&style=flat-square&color=eab308&labelColor=1e293b" alt="Total Stars"/>
 
 <br/><br/>
 
