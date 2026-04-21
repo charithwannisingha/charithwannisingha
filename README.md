@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0." width="100%" alt="Charith's Banner" style="border-radius: 15px; margin-bottom: 20px;"/>
+
 # 👨‍💻 Hi there, I'm Charith Wannisingha! 👋
 
-### IT Student & Full-Stack Developer | AI, Web & Cloud Hosting 🇱🇰
-
-**Building scalable web & mobile apps 🚀 | Transforming ideas into hosted solutions ☁️**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=IT+Student;Full-Stack+Web+%26+App+Developer;Building+Scalable+Applications;Seeking+Internship+Opportunities" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -21,9 +23,9 @@
 
 ## 👋 About Me
 
-I am a passionate **IT undergraduate** and dedicated developer specializing in full-stack web and mobile application development. I enjoy handling the complete development lifecycle—from writing clean, efficient code and integrating AI solutions to deploying and hosting applications on the cloud.
+I am a highly motivated **IT Student** and a dedicated developer specializing in building dynamic web and mobile applications. I enjoy the process of turning ideas into functional, clean code and ensuring they are successfully deployed and hosted.
 
-I don't just write code; I ensure my applications are successfully deployed, scalable, and running smoothly for users. Constantly exploring new technologies in AI and cloud computing, I am always open to new challenges and collaborating on exciting tech projects.
+Currently, I am actively looking for **Software Engineering Internships** to apply my skills in real-world projects, learn from industry professionals, and contribute to an innovative tech team. I am a fast learner, always eager to explore new technologies, especially in AI and Cloud.
 
 <br/>
 
@@ -32,9 +34,9 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 | | |
 |:---:|:---|
 | 📍 | Sri Lanka (GMT+5:30) |
-| 🎓 | IT Undergraduate |
-| 💻 | Currently working on: **Full-Stack Apps & AI Integrations** |
-| ☁️ | Expertise: **Web/App Development & Cloud Deployment** |
+| 🎓 | IT Student |
+| 💼 | **Actively seeking an Internship in Software Engineering** |
+| 💻 | Currently building: Web/Mobile Apps & Exploring AI |
 | ⚡ | Fun fact: I turn coffee into scalable code! ☕ |
 
 </div>
@@ -50,11 +52,9 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -63,7 +63,6 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -73,23 +72,31 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="55" height="55" />
-      <h3>Full-Stack Dev</h3>
-      <p align="center">Building dynamic, responsive, and secure web & mobile applications from scratch.</p>
+      <h3>Full-Stack & Mobile Dev</h3>
+      <p align="center">Building responsive, secure web & mobile applications from scratch.</p>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="55" height="55" />
-      <h3>Cloud & Hosting</h3>
-      <p align="center">Deploying, hosting, and maintaining scalable solutions to ensure smooth user experiences.</p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="55" height="55" />
-      <h3>AI Integration</h3>
-      <p align="center">Exploring and implementing intelligent AI models to build smarter digital products.</p>
+      <h3>Deployment & Hosting</h3>
+      <p align="center">Hosting and maintaining apps to ensure smooth user experiences.</p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🤝 Open To
+
+<div align="center">
+
+### 💼 Software Engineering Internships 
+**Status: ✅ Actively Exploring**
+
+*I am eager to join a dynamic team where I can apply my Full-Stack development skills, learn industry best practices, and contribute to meaningful projects.*
+
+</div>
 
 ---
 
@@ -110,27 +117,7 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=4000&pause=1000&color=94A3B8&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=50&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.+%E2%80%94+Cory+House;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Tech Quotes"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=charithwannisingha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&area_color=0c4a6e&radius=6&custom_title=Charith%27s%20Contribution%20Graph" width="97%" alt="Contribution Graph"/>
-
-</div>
-
-## 🤝 Open To
-
-<div align="center">
-
-| Opportunity | Status |
-|:---|:---:|
-| 🌐 Full-Stack Web Projects | ✅ Available |
-| 📱 Mobile App Development | ✅ Available |
-| ☁️ App Hosting & Deployment | ✅ Available |
-| 🤖 AI/ML Integrations | ✅ Interested |
-| 💼 Internship / Junior Roles | ✅ Exploring |
 
 </div>
 
@@ -138,7 +125,7 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=charithwannisingha&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/charithwannisingha?label=Followers&style=flat-square&color=22c55e&labelColor=1e293b" alt="Followers"/>
 &nbsp;
@@ -146,6 +133,6 @@ I don't just write code; I ensure my applications are successfully deployed, sca
 
 <br/><br/>
 
-*Always happy to connect and talk about tech, development, and exciting new projects!*
+*Let's connect! I am always ready for a new coding challenge.*
 
 </div>
