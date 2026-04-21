@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" width="100%" alt="Charith's Banner" style="border-radius: 15px; margin-bottom: 20px;"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=150&section=header" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" width="100%" alt="Charith's Banner" style="border-radius: 0 0 15px 15px; margin-top: -50px; position: relative; z-index: 1;"/>
 
 # 👨‍💻 Hi there, I'm Charith Wannisingha! 👋
 
@@ -47,11 +46,11 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Toolbox & Skills
 
 <div align="center">
 
-### 🔤 Languages & Core
+### 🔤 Core Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,19 +58,31 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Frontend & Mobile
+### 🎨 Frontend & Mobile Ecosystem
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Backend, Hosting & AI
+### ⚙️ Backend, Cloud & AI
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<br/>
+
+> *Hey! I'm not an expert in all of these, but I'm continuously learning ✌🏽 💖*
 
 </div>
 
@@ -141,7 +152,7 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=charithwannisingha&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/charithwannisingha?label=Followers&style=flat-square&color=22c55e&labelColor=1e293b" alt="Followers"/>
 &nbsp;
