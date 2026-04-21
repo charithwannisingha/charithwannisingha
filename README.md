@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" width="100%" alt="Charith's Banner" style="border-radius: 15px; margin-bottom: 20px;"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=header" width="100%" alt="header"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>width="100%" alt="Charith's Banner" style="border-radius: 15px; margin-bottom: 20px;"/>
+
 
 # 👨‍💻 Hi there, I'm Charith Wannisingha! 👋
 
