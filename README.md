@@ -1,8 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=header" width="100%" alt="header"/>
+
 <div align="center">
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" width="100%" alt="Charith's Banner" style="border-radius: 15px; margin-bottom: 20px;"/>
 
 # 👨‍💻 Hi there, I'm Charith Wannisingha! 👋
+
+### *Crafting digital experiences with vision, motion, and code.*
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=IT+Student;Full-Stack+Web+%26+App+Developer;Building+Scalable+Applications;Seeking+Internship+Opportunities" alt="Typing SVG" />
@@ -55,6 +59,7 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -76,15 +81,20 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="55" height="55" />
-      <h3>Full-Stack & Mobile Dev</h3>
-      <p align="center">Building responsive, secure web & mobile applications from scratch.</p>
+      <h3>Full-Stack Dev</h3>
+      <p align="center">Building dynamic, responsive, and secure web & mobile applications from scratch.</p>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="55" height="55" />
-      <h3>Deployment & Hosting</h3>
-      <p align="center">Hosting and maintaining apps to ensure smooth user experiences.</p>
+      <h3>Cloud & Hosting</h3>
+      <p align="center">Deploying, hosting, and maintaining scalable solutions to ensure smooth user experiences.</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="55" height="55" />
+      <h3>AI Integration</h3>
+      <p align="center">Exploring and implementing intelligent AI models to build smarter digital products.</p>
     </td>
   </tr>
 </table>
@@ -131,7 +141,7 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=charithwannisingha&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/charithwannisingha?label=Followers&style=flat-square&color=22c55e&labelColor=1e293b" alt="Followers"/>
 &nbsp;
@@ -142,3 +152,5 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 *Let's connect! I am always ready for a new coding challenge.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
