@@ -1,6 +1,14 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" width="100%" alt="Charith's Banner" style="border-radius: 0 0 15px 15px; margin-top: -50px; position: relative; z-index: 1;"/>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=charitheranda-dev&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/charithwannisingha?label=Followers&style=flat-square&color=22c55e&labelColor=1e293b" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/charithwannisingha?label=Total%20Stars&style=flat-square&color=eab308&labelColor=1e293b" alt="Stars"/>
+
 # 👨‍💻 Hi there, I'm Charith Wannisingha! 👋
 
 ### *Crafting digital experiences with vision, motion, and code.*
@@ -148,18 +156,6 @@ Currently, I am actively looking for **Software Engineering Internships** to app
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=charithwannisingha&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/charithwannisingha?label=Followers&style=flat-square&color=22c55e&labelColor=1e293b" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/charithwannisingha?label=Total%20Stars&style=flat-square&color=eab308&labelColor=1e293b" alt="Stars"/>
-
-<br/><br/>
-
 *Let's connect! I am always ready for a new coding challenge.*
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
