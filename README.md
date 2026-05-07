@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1778112000&v=beta&t=jXu1RkIOZY2eqfhvbyHJPrziXzpC9HHSACZhfgjAMS0" width="100%" alt="Charith's Banner" style="border-radius: 0 0 15px 15px; margin-top: -50px; position: relative; z-index: 1;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGrileJ2yDx_Q/profile-displaybackgroundimage-shrink_200_800/B56ZvITVnQKIAU-/0/1768592099673?e=1779926400&v=beta&t=vNV6UOAJU3e0sjgOtpjYDZI_ygUjM1sL4LmtXbGKaMM" width="100%" alt="Charith's Banner" style="border-radius: 0 0 15px 15px; margin-top: -50px; position: relative; z-index: 1;"/>
 
 <div align="center">
 
