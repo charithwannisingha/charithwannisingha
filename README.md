@@ -1,5 +1,5 @@
 <div align="center">
-<img src="chariyabaner.jpg" width="100%" alt="Charith's Banner" style="border-radius: 0 0 15px 15px; margin-top: -50px; position: relative; z-index: 1;"/>
+<img src="https://i.postimg.cc/nhpQtxD7/chariyabaner.jpg" width="100%" alt="Charith's Banner" style="border-radius: 0 0 15px 15px; margin-top: -50px; position: relative; z-index: 1;"/>
 
 <div align="center">
 
